@@ -1,0 +1,6 @@
+@Livora_HostAddress = http://localhost:5116
+
+GET {{Livora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
