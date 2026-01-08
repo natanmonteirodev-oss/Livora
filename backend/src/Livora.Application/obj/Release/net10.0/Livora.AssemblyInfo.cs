@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Livora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a32c53b19fc9cefb4969177a81471157e833b76f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+505f94971727494276f65fcf59ee2544454cc303")]
 [assembly: System.Reflection.AssemblyProductAttribute("Livora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Livora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

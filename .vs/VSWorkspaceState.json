@@ -2,9 +2,6 @@
   "ExpandedNodes": [
     "",
     "\\backend",
-    "\\backend\\src\\Livora.BackgroundJobs",
-    "\\backend\\src\\Livora.Domain",
-    "\\backend\\src\\Livora.Infrastructure",
     "\\backend\\tests",
     "\\backend\\tests\\Livora.IntegrationTests",
     "\\backend\\tests\\Livora.UnitTests"
