@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\natan\\repos\\Livora\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5CC72D6-5C6E-9863-4F33-9201E958379E}|src\\Livora.Application\\Livora.csproj|c:\\users\\natan\\repos\\livora\\backend\\src\\livora.application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC72D6-5C6E-9863-4F33-9201E958379E}|src\\Livora.Application\\Livora.csproj|solutionrelative:src\\livora.application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CC72D6-5C6E-9863-4F33-9201E958379E}|src\\Livora.Application\\Livora.csproj|c:\\users\\natan\\repos\\livora\\backend\\src\\livora.application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CC72D6-5C6E-9863-4F33-9201E958379E}|src\\Livora.Application\\Livora.csproj|solutionrelative:src\\livora.application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5CC72D6-5C6E-9863-4F33-9201E958379E}|src\\Livora.Application\\Livora.csproj|c:\\users\\natan\\repos\\livora\\backend\\src\\livora.application\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5CC72D6-5C6E-9863-4F33-9201E958379E}|src\\Livora.Application\\Livora.csproj|solutionrelative:src\\livora.application\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\repos\\Livora\\backend\\src\\Livora.Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\Livora.Application\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natan\\repos\\Livora\\backend\\src\\Livora.Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\Livora.Application\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:44:38.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\natan\\repos\\Livora\\backend\\src\\Livora.Application\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "src\\Livora.Application\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\natan\\repos\\Livora\\backend\\src\\Livora.Application\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "src\\Livora.Application\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T01:59:55.36Z",
+              "WhenOpened": "2026-01-21T02:27:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\repos\\Livora\\backend\\src\\Livora.Application\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Livora.Application\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\natan\\repos\\Livora\\backend\\src\\Livora.Application\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Livora.Application\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T02:26:50.434Z",
               "EditorCaption": ""
             }
           ]

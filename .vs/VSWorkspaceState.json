@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\backend",
-    "\\backend\\tests",
-    "\\backend\\tests\\Livora.IntegrationTests",
-    "\\backend\\tests\\Livora.UnitTests"
+    "\\backend\\src",
+    "\\backend\\src\\Livora.Application"
   ],
   "SelectedNode": "\\backend\\Livora.slnx",
   "PreviewInSolutionExplorer": false

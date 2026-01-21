@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fe38a15e-53a6-4e30-ad53-29b7ed9772c8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Livora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+505f94971727494276f65fcf59ee2544454cc303")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+653e3be78462c6722e30424c7d5b972034e6c20b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Livora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Livora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
